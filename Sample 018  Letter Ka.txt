@@ -1,0 +1,63 @@
+Letter 1 = ಅ
+Letter 2 = ಆ
+Letter 3 = ಇ
+Letter 4 = ಈ 
+Letter 5 = ಉ 
+Letter 6 =  ಊ 
+Letter 7 = ಋ
+Letter 8 = ೠ
+Letter 9 = ಎ 
+Letter 10 = ಏ 
+Letter 11 = ಐ 
+Letter 12 = ಒ 
+Letter 13 = ಓ 
+Letter 14 = ಔ 
+Letter 15 = ಅಂ
+Letter 16 = ಅಃ
+
+
+Letter 17 = ಕ
+Letter 18 = ಖ
+Letter 19 = ಗ
+Letter 20 = ಘ 
+Letter 21 = ಙ
+
+
+Letter 22 = ಚ 
+Letter 23 = ಛ
+Letter 24 =  ಜ 
+Letter 25 = ಝ 
+Letter 26 = ಞ
+
+
+Letter 27 = ಟ
+Letter 28 = ಠ 
+Letter 29 = ಡ
+Letter 30 = ಢ 
+Letter 31 = ಣ
+
+
+Letter 32 = ತ
+Letter 33 = ಥ 
+Letter 34 = ದ 
+Letter 35 = ದ 
+Letter 36 = ನ
+
+
+Letter 37 = ಪ 
+Letter 38 = ಫ 
+Letter 39 = ಬ 
+Letter 40 = ಭ 
+Letter 41 = ಮ
+
+
+Letter 42 = ಯ 
+Letter 43 = ರ 
+Letter 44 = ಲ
+Letter 45 = ವ 
+Letter 46 = ಶ 
+Letter 47 = ಷ 
+Letter 48 = ಸ 
+Letter 49 = ಹ 
+Letter 50 = ಳ 
+
