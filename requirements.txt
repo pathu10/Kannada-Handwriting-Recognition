@@ -4,6 +4,3 @@ scikit-learn
 matplotlib
 joblib
 tkinter
-
-
-OpenCV is an open-source Python library for computer vision. It provides tools for image and video processing, including tasks such as object detection, image transformations, and feature extraction.
