@@ -30,7 +30,7 @@ KannadaHandwrittenRecognition/
 
 ```bash
 git clone https://github.com/pathu10/Kannada-Handwriting-Recognition.git
-cd KannadaHandwrittenRecognition
+cd Kannada-Handwriting-Recognition
 ```
 
 ### 2. Install Dependencies
